@@ -1,2 +1,2 @@
-# File
-File for Quranspot
+# Murratal
+Murratal for Quranspot
